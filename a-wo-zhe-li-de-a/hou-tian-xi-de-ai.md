@@ -2,15 +2,15 @@
 description: 月上柳梢头，人约黄昏后。
 ---
 
-# 后天习得--爱
+# acquired--Love
 
 > a lot hard for me to star this but it necessary
 
 ### principles:
 
-1. 基于：我的经历、对世界的观察，其中有很多偏见
-2. 可见性：only myself, others should be allowed
-3. 目的：方法论 -- 帮我我理清思路与更好的在那个**重要的博弈**中胜出
+1. Fundation：我的经历、对世界的观察，其中有很多偏见
+2. visibility: only myself, others should be allowed
+3. purpose：方法论 -- 帮我我理清思路与更好的在那个**重要的博弈**中胜出
 
 ### basic Idea
 
