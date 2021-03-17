@@ -35,7 +35,7 @@ description: 月上柳梢头，人约黄昏后。
    1. Moral difficulties
    2. lack of social intercourse Circle
    3. dearness
-   4. so the solution will come soon
+   4. so, the solution will come soon
 
 
 
