@@ -10,4 +10,5 @@
 * [acquired--Love](a-wo-zhe-li-de-a/hou-tian-xi-de-ai.md)
 * [雨季，有感](a-wo-zhe-li-de-a/yu-ji-you-gan.md)
 * [easy Girls?](a-wo-zhe-li-de-a/easy-grils.md)
+* [Life Changes i want](a-wo-zhe-li-de-a/life-changes-i-want.md)
 
