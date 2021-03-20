@@ -9,5 +9,5 @@
 * [hang out after lunch](a-wo-zhe-li-de-a/hang-out-after-lunch.md)
 * [acquired--Love](a-wo-zhe-li-de-a/hou-tian-xi-de-ai.md)
 * [雨季，有感](a-wo-zhe-li-de-a/yu-ji-you-gan.md)
-* [easy Grils?](a-wo-zhe-li-de-a/easy-grils.md)
+* [easy Girls?](a-wo-zhe-li-de-a/easy-grils.md)
 
