@@ -37,5 +37,9 @@ description: 月上柳梢头，人约黄昏后。
    3. dearness
    4. so, the solution will come soon
 
+motto
+
+1. 按照自己的那套规则来，这么做就是“对的”，结果随缘，爱咋咋地。
+
 
 
