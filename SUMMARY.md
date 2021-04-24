@@ -13,4 +13,5 @@
 * [Life Changes i want](a-wo-zhe-li-de-a/life-changes-i-want.md)
 * [KNX](a-wo-zhe-li-de-a/knx.md)
 * [Emo -- ultimate solution 2021.4.5](a-wo-zhe-li-de-a/emo-ultimate-solution-2021.4.5.md)
+* [每个人都知道自己的问题在哪里，只是我们不愿意承认罢了](a-wo-zhe-li-de-a/mei-ge-ren-du-zhi-dao-zi-ji-de-wen-ti-zai-na-li-zhi-shi-wo-men-bu-yuan-yi-cheng-ren-ba-le.md)
 
