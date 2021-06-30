@@ -6,6 +6,7 @@
 
 * [what's A?](a-wo-zhe-li-de-a/whats-a.md)
 * [花样之年华](a-wo-zhe-li-de-a/hua-yang-zhi-nian-hua.md)
+* [焦虑三连](a-wo-zhe-li-de-a/jiao-lv-san-lian.md)
 * [叁月幻觉](a-wo-zhe-li-de-a/san-yue-huan-jue.md)
 * [hang out after lunch](a-wo-zhe-li-de-a/hang-out-after-lunch.md)
 * [acquired--Love](a-wo-zhe-li-de-a/hou-tian-xi-de-ai.md)
