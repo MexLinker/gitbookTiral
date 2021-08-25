@@ -5,6 +5,7 @@
 ## A\(我这里的a\)
 
 * [what's A?](a-wo-zhe-li-de-a/whats-a.md)
+* [恋爱思考--大文豪](a-wo-zhe-li-de-a/lian-ai-si-kao-da-wen-hao.md)
 * [郁结](a-wo-zhe-li-de-a/yu-jie.md)
 * [花样之年华](a-wo-zhe-li-de-a/hua-yang-zhi-nian-hua.md)
 * [焦虑三连](a-wo-zhe-li-de-a/jiao-lv-san-lian.md)
