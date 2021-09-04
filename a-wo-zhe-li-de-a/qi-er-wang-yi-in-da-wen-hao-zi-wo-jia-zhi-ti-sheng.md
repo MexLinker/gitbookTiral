@@ -8,5 +8,7 @@ Q:男女交往中男性的核心竞争力是什么？
 
 answer and arrangement
 
+1. fuck, just fuck it
+
 
 
