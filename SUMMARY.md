@@ -5,6 +5,7 @@
 ## A\(我这里的a\)
 
 * [what's A?](a-wo-zhe-li-de-a/whats-a.md)
+* [跂而望矣（in大文豪）- 自我价值提升](a-wo-zhe-li-de-a/qi-er-wang-yi-in-da-wen-hao-zi-wo-jia-zhi-ti-sheng.md)
 * [关于人际交往](a-wo-zhe-li-de-a/guan-yu-ren-ji-jiao-wang.md)
 * [恋爱思考--大文豪](a-wo-zhe-li-de-a/lian-ai-si-kao-da-wen-hao.md)
 * [郁结](a-wo-zhe-li-de-a/yu-jie.md)
