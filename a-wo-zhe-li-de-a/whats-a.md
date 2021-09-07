@@ -16,8 +16,8 @@ then, what I need to do is to reconsider both the functions.
 
 ### Two A, A&lt;-&gt;A
 
-at an idealism's point, I want to create a new personal _a_  
-but I should reference the old _a_ I made to continuously fetch from the real world.
+at an idealism's point, I want to create a new personal A  
+but I should reference the old A I made to continuously fetch from the real world.
 
 ### graph theory
 
