@@ -4,6 +4,7 @@
 
 ## 马毛思维
 
+* [关于智慧与幸福的想法](ma-mao-si-wei/guan-yu-zhi-hui-yu-xing-fu-de-xiang-fa.md)
 * [失败主义分析](ma-mao-si-wei/shi-bai-zhu-yi-fen-xi.md)
 
 ## A\(我这里的a\)
