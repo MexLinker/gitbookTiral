@@ -2,10 +2,13 @@
 
 * [Initial page](README.md)
 
+## 马毛思维
+
+* [失败主义分析](ma-mao-si-wei/shi-bai-zhu-yi-fen-xi.md)
+
 ## A\(我这里的a\)
 
 * [what's A?](a-wo-zhe-li-de-a/whats-a.md)
-* [失败主义分析](a-wo-zhe-li-de-a/shi-bai-zhu-yi-fen-xi.md)
 * [about 回避依恋 or 性单恋](a-wo-zhe-li-de-a/about-hui-bi-yi-lian-or-xing-dan-lian.md)
 * [跂而望矣（in大文豪）- 自我价值提升](a-wo-zhe-li-de-a/qi-er-wang-yi-in-da-wen-hao-zi-wo-jia-zhi-ti-sheng.md)
 * [关于人际交往](a-wo-zhe-li-de-a/guan-yu-ren-ji-jiao-wang.md)
