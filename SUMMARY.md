@@ -4,6 +4,7 @@
 
 ## 马毛思维
 
+* [马毛README](ma-mao-si-wei/ma-mao-readme.md)
 * [关于智慧与幸福的想法](ma-mao-si-wei/guan-yu-zhi-hui-yu-xing-fu-de-xiang-fa.md)
 * [明确思维的战无不胜](ma-mao-si-wei/ming-que-si-wei-de-zhan-wu-bu-sheng.md)
 * [时刻要搞清楚我们的事业是什么](ma-mao-si-wei/shi-ke-yao-gao-qing-chu-wo-men-de-shi-ye-shi-shen-me.md)
