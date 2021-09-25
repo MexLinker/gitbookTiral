@@ -11,6 +11,10 @@
 * [普遍工作分析](ma-mao-si-wei/pu-bian-gong-zuo-fen-xi.md)
 * [失败主义分析](ma-mao-si-wei/shi-bai-zhu-yi-fen-xi.md)
 
+## life thoughts
+
+* [consumption view💰](life-thoughts/consumption-view.md)
+
 ## A\(我这里的a\)
 
 * [what's A?](a-wo-zhe-li-de-a/whats-a.md)
