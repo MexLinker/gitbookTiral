@@ -5,6 +5,7 @@
 ## 马毛思维
 
 * [马毛README](ma-mao-si-wei/ma-mao-readme.md)
+* [必须守望我们的革命初衷](ma-mao-si-wei/bi-xu-shou-wang-wo-men-de-ge-ming-chu-zhong.md)
 * [关于智慧与幸福的想法](ma-mao-si-wei/guan-yu-zhi-hui-yu-xing-fu-de-xiang-fa.md)
 * [关于青年人的感情的讨论](ma-mao-si-wei/guan-yu-qing-nian-ren-de-gan-qing-de-tao-lun.md)
 * [明确思维的战无不胜](ma-mao-si-wei/ming-que-si-wei-de-zhan-wu-bu-sheng.md)
@@ -17,7 +18,7 @@
 
 * [consumption view💰](life-thoughts/consumption-view.md)
 
-## A\(我这里的a\)
+## A(我这里的a)
 
 * [what's A?](a-wo-zhe-li-de-a/whats-a.md)
 * [about 回避依恋 or 性单恋](a-wo-zhe-li-de-a/about-hui-bi-yi-lian-or-xing-dan-lian.md)
@@ -37,4 +38,3 @@
 * [Emo -- ultimate solution 2021.4.5](a-wo-zhe-li-de-a/emo-ultimate-solution-2021.4.5.md)
 * [每个人都知道自己的问题在哪里，只是我们不愿意承认罢了](a-wo-zhe-li-de-a/mei-ge-ren-du-zhi-dao-zi-ji-de-wen-ti-zai-na-li-zhi-shi-wo-men-bu-yuan-yi-cheng-ren-ba-le.md)
 * [CK](a-wo-zhe-li-de-a/ck.md)
-
