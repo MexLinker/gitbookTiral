@@ -18,6 +18,7 @@
 ## life thoughts
 
 * [consumption view💰](life-thoughts/consumption-view.md)
+* [living habit](life-thoughts/living-habit.md)
 
 ## A(我这里的a)
 
