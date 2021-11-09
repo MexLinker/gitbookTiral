@@ -5,6 +5,7 @@
 ## 马毛思维
 
 * [马毛README](ma-mao-si-wei/ma-mao-readme.md)
+* [大三上学期中战略分析](ma-mao-si-wei/da-san-shang-xue-qi-zhong-zhan-lve-fen-xi.md)
 * [必须守望我们的革命初衷](ma-mao-si-wei/bi-xu-shou-wang-wo-men-de-ge-ming-chu-zhong.md)
 * [等我想好就立马改标题](ma-mao-si-wei/deng-wo-xiang-hao-jiu-li-ma-gai-biao-ti.md)
 * [关于智慧与幸福的想法](ma-mao-si-wei/guan-yu-zhi-hui-yu-xing-fu-de-xiang-fa.md)
