@@ -2,6 +2,13 @@
 
 * [Initial page](README.md)
 
+## Group 1
+
+* [社交策略 -- 讲心态转变](group-1/she-jiao-ce-lve-jiang-xin-tai-zhuan-bian.md)
+* [现代人的信息修养](group-1/xian-dai-ren-de-xin-xi-xiu-yang.md)
+* [2022寒假宣言](group-1/2022-han-jia-xuan-yan.md)
+* [马毛思维--求是](group-1/ma-mao-si-wei-qiu-shi.md)
+
 ## 马毛思维
 
 * [马毛README](ma-mao-si-wei/ma-mao-readme.md)
@@ -16,9 +23,7 @@
 * [普遍工作分析](ma-mao-si-wei/pu-bian-gong-zuo-fen-xi.md)
 * [失败主义分析](ma-mao-si-wei/shi-bai-zhu-yi-fen-xi.md)
 * [等我想好就立马改标题](ma-mao-si-wei/deng-wo-xiang-hao-jiu-li-ma-gai-biao-ti.md)
-* [现代人的信息修养](ma-mao-si-wei/xian-dai-ren-de-xin-xi-xiu-yang.md)
-* [2022寒假宣言](ma-mao-si-wei/2022-han-jia-xuan-yan.md)
-* [Page 1](ma-mao-si-wei/page-1.md)
+* [我的主心骨变了（感性认识）](ma-mao-si-wei/wo-de-zhu-xin-gu-bian-le-gan-xing-ren-shi.md)
 
 ## life thoughts
 
