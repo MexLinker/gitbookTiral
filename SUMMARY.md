@@ -1,13 +1,13 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [TOTAL README](README.md)
 
 ## 马毛思维--求是
 
 * [求是README](ma-mao-si-wei-qiu-shi/qiu-shi-readme.md)
 * [社交策略 -- 讲心态转变](ma-mao-si-wei-qiu-shi/she-jiao-ce-lve-jiang-xin-tai-zhuan-bian.md)
-* [现代人的信息修养](ma-mao-si-wei-qiu-shi/xian-dai-ren-de-xin-xi-xiu-yang.md)
-* [2022寒假宣言](ma-mao-si-wei-qiu-shi/2022-han-jia-xuan-yan.md)
+* [现代人的信息修养](ma-mao-si-wei/xian-dai-ren-de-xin-xi-xiu-yang.md)
+* [2022寒假宣言](ma-mao-si-wei/2022-han-jia-xuan-yan.md)
 
 ## 马毛思维
 
