@@ -2,12 +2,12 @@
 
 * [Initial page](README.md)
 
-## Group 1
+## 马毛思维--求是
 
-* [社交策略 -- 讲心态转变](group-1/she-jiao-ce-lve-jiang-xin-tai-zhuan-bian.md)
-* [现代人的信息修养](group-1/xian-dai-ren-de-xin-xi-xiu-yang.md)
-* [2022寒假宣言](group-1/2022-han-jia-xuan-yan.md)
-* [马毛思维--求是](group-1/ma-mao-si-wei-qiu-shi.md)
+* [求是README](ma-mao-si-wei-qiu-shi/qiu-shi-readme.md)
+* [社交策略 -- 讲心态转变](ma-mao-si-wei-qiu-shi/she-jiao-ce-lve-jiang-xin-tai-zhuan-bian.md)
+* [现代人的信息修养](ma-mao-si-wei-qiu-shi/xian-dai-ren-de-xin-xi-xiu-yang.md)
+* [2022寒假宣言](ma-mao-si-wei-qiu-shi/2022-han-jia-xuan-yan.md)
 
 ## 马毛思维
 
