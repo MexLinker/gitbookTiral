@@ -9,6 +9,7 @@
 * [2022寒假宣言](ma-mao-si-wei/2022-han-jia-xuan-yan.md)
 * [社交策略 -- 讲心态转变](ma-mao-si-wei-qiu-shi/she-jiao-ce-lve-jiang-xin-tai-zhuan-bian.md)
 * [现代人的信息修养](ma-mao-si-wei/xian-dai-ren-de-xin-xi-xiu-yang.md)
+* [可追](ma-mao-si-wei-qiu-shi/ke-zhui.md)
 
 ## 马毛思维
 
