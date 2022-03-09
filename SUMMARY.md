@@ -11,6 +11,7 @@
 * [现代人的信息修养](ma-mao-si-wei/xian-dai-ren-de-xin-xi-xiu-yang.md)
 * [可追](ma-mao-si-wei-qiu-shi/ke-zhui.md)
 * [失败主义再分析](ma-mao-si-wei-qiu-shi/shi-bai-zhu-yi-zai-fen-xi.md)
+* [天鹅 -- 光辉](ma-mao-si-wei-qiu-shi/tiane-guang-hui.md)
 
 ## 马毛思维
 
